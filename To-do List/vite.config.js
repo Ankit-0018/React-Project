@@ -6,6 +6,6 @@ import tailwindcss from '@tailwindcss/vite'
 export default defineConfig({
   plugins: [react(), tailwindcss(),],
  
-    base: '/React-Project/To-do List',  // Make sure to replace with your actual repo name
+    base: '/React-Project/To-do%20List',  // Make sure to replace with your actual repo name
   
 })
